@@ -1,6 +1,6 @@
 # Karl's Website
 
-Karl hat sich aus Intersse an Computern seine eigene Website gebastelt.
+Karl hat sich aus Interesse an Computern seine eigene Website gebastelt.
 
 Er bittet dich nun um ein Feedback dazu. 
 
